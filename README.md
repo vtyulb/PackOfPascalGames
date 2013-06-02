@@ -1,4 +1,19 @@
 PackOfPascalGames
 =================
 
-My first programs - 5 games written on Pascal
+newflmngr - file manager - my first serious programs
+sound - program that play sound
+china - game "Great china wall"
+color - program that shows colors and their numbers (4 bit color)
+flmngr - old file manager
+prostie_ - program that generates simple numbers
+readkey - program that say number of pressed key
+saper - clone of game "Mine"
+sea - game Battleship
+proga - Tic-tac-toe game 
+proga2ne - more great variant of this game
+maze - classic Terra incognita game
+name00 - program that prints all symbols with their numbers
+
+Most of this programs must be compiled with 16bit Turbo Pascal
+To exit from this programs you must press "@" or type "exit".
