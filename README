@@ -17,3 +17,4 @@ name00 - program that prints all symbols with their numbers
 
 Most of this programs must be compiled with 16bit Turbo Pascal
 To exit from this programs you must press "@" or type "exit".
+GPL License
